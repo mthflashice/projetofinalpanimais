@@ -1,6 +1,6 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient(45deg, cyan, yellow);
+    font-family: "Roboto", sans-serif;
+    
 }
 div{
     background-color: rgba(0, 0, 0, 0.384);
@@ -24,11 +24,12 @@ button{
     padding: 15px;
     width: 100%;
     border-radius: 10px;
-    color: white;
+    color: rgb(21, 139, 21);
     font-size: 15px;
     
 }
 button:hover{
-    background-color: deepskyblue;
+    background-color: yellow;
     cursor: pointer;
 }
+
